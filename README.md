@@ -3,25 +3,25 @@
 
 # **Table of Contents** {#table-of-contents .TOC-Heading}
 
-Introduction [2](#introduction)
+Introduction [2]
 
-[JSP Diagram of the Mobile Application
-[3](#jsp-diagram-of-the-mobile-application)](#jsp-diagram-of-the-mobile-application)
+JSP Diagram of the Mobile Application
+[3]
 
-[Testing of the Mobile Application
-[4](#testing-of-the-mobile-application)](#testing-of-the-mobile-application)
+Testing of the Mobile Application
+[4]
 
-[Working features and prototype features
-[6](#working-features-and-prototype-features)](#working-features-and-prototype-features)
+Working features and prototype features
+[6]
 
-[Storyboard of the Application
-[7](#storyboard-of-the-application)](#storyboard-of-the-application)
+Storyboard of the Application
+[7]
 
-[Problems encountered when developing the mobile application
-[8](#problems-encountered-when-developing-the-mobile-application)](#problems-encountered-when-developing-the-mobile-application)
+Problems encountered when developing the mobile application
+[8]
 
-[Screenshots of the Mobile Application
-[10](#screenshots-of-the-mobile-application)](#screenshots-of-the-mobile-application)
+Screenshots of the Mobile Application
+[10]
 
 # Introduction
 
