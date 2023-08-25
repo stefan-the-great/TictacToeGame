@@ -41,7 +41,8 @@ three in a row.
 # 
 
 # JSP Diagram of the Mobile Application
-![image1](https://github.com/stefan-the-great/TictacToeGame/assets/88985961/ffb98452-9578-4f1b-9104-c7df1d47b031)
+![JSP Diagram](https://github.com/stefan-the-great/TictacToeGame/assets/88985961/9ead6c56-17c5-40c5-854b-d661011e7c3b)
+tacToeGame/assets/88985961/5d5d7ce7-529b-48af-affe-040364639d37)
 
 # Working Features and Prototype Features
 
