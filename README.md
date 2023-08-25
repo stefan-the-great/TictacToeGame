@@ -8,20 +8,17 @@ Introduction [2](#introduction)
 JSP Diagram of the Mobile Application
 [3](#jsp-diagram-of-the-mobile-application)
 
-Testing of the Mobile Application
-[4](#testing-of-the-mobile-application)
-
 Working features and prototype features
-[6](#working-features-and-prototype-features)
+[4](#working-features-and-prototype-features)
 
 Storyboard of the Application
-[7](#storyboard-of-the-application)
+[5](#storyboard-of-the-application)
 
 Problems encountered when developing the mobile application
-[8](#problems-encountered-when-developing-the-mobile-application)
+[6](#problems-encountered-when-developing-the-mobile-application)
 
 Screenshots of the Mobile Application
-[10](#screenshots-of-the-mobile-application)
+[7](#screenshots-of-the-mobile-application)
 
 # Introduction
 
