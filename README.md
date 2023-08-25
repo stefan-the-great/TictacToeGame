@@ -65,9 +65,8 @@ application:
 
 # Storyboard of the Application
 
-![image2](https://github.com/stefan-the-great/TictacToeGame/assets/88985961/3b955ecc-2ef5-4e6f-9cae-67a76958a17b)
-
-![image3](https://github.com/stefan-the-great/TictacToeGame/assets/88985961/59eff6c1-2808-48eb-b849-ac63815d7ff9)
+![Group 38](https://github.com/stefan-the-great/TictacToeGame/assets/88985961/4455f45c-2122-40e0-96a7-7f443499a5af)
+![Group 39](https://github.com/stefan-the-great/TictacToeGame/assets/88985961/1661161f-43c2-4271-8f43-e592d69ed25d)
 
 Figure 2.2 -- Story board page 02
 
