@@ -1,7 +1,5 @@
----
-title: Tic Tac Toe
----
 
+# Tic Tac Toe
 *Developed by Stefan Fernando*
 
 # **Table of Contents** {#table-of-contents .TOC-Heading}
