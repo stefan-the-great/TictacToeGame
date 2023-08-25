@@ -41,7 +41,7 @@ three in a row.
 # 
 
 # JSP Diagram of the Mobile Application
-
+![image1](https://github.com/stefan-the-great/TictacToeGame/assets/88985961/ffb98452-9578-4f1b-9104-c7df1d47b031)
 
 # Working Features and Prototype Features
 
@@ -64,7 +64,9 @@ application:
 
 # Storyboard of the Application
 
+![image2](https://github.com/stefan-the-great/TictacToeGame/assets/88985961/3b955ecc-2ef5-4e6f-9cae-67a76958a17b)
 
+![image3](https://github.com/stefan-the-great/TictacToeGame/assets/88985961/59eff6c1-2808-48eb-b849-ac63815d7ff9)
 
 Figure 2.2 -- Story board page 02
 
@@ -111,3 +113,13 @@ Figure 2.2 -- Story board page 02
 # 
 
 # Screenshots of the Mobile Application
+
+![image4](https://github.com/stefan-the-great/TictacToeGame/assets/88985961/8bc0c783-be5a-42f5-a881-330c2d32d242)
+![image5](https://github.com/stefan-the-great/TictacToeGame/assets/88985961/efa16b45-ace9-48a4-9db2-98edfd863e3f)
+![image6](https://github.com/stefan-the-great/TictacToeGame/assets/88985961/5d5d7ce7-529b-48af-affe-040364639d37)
+![image7](https://github.com/stefan-the-great/TictacToeGame/assets/88985961/2e4ed524-c913-4577-a0d2-0b058668b450)
+![image8](https://github.com/stefan-the-great/TictacToeGame/assets/88985961/622719ba-745a-49f9-abc3-5f8012ed10d6)
+![image9](https://github.com/stefan-the-great/TictacToeGame/assets/88985961/64fecf20-5bf7-4165-93c0-b5240e50294e)
+![image10](https://github.com/stefan-the-great/TictacToeGame/assets/88985961/b2f9bf0c-f928-4cd8-bc69-0aee57563444)
+![image11](https://github.com/stefan-the-great/TictacToeGame/assets/88985961/2fe779ab-01d6-4a80-b804-69772bed0eb4)
+
