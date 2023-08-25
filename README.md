@@ -3,7 +3,7 @@
 
 # **Table of Contents** {#table-of-contents .TOC-Heading}
 
-[Introduction [2](#introduction)]
+Introduction [2](#introduction)
 
 [JSP Diagram of the Mobile Application
 [3](#jsp-diagram-of-the-mobile-application)](#jsp-diagram-of-the-mobile-application)
